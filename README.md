@@ -1,3 +1,8 @@
+-- OrionLib: centro de gestión administrativa.
+
+-- Utilize comandos de administrador com muito mais eficiência!
+
+
  -- Adiciona Biblioteca
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
@@ -106,7 +111,7 @@ local function alternatePlayers()
     end
 end
 
--- Botão: Executar Comando Selecionado
+-- Botão: Executar Comando
 Tab:AddButton({
     Name = "Executar Comando!",
     Callback = function()
