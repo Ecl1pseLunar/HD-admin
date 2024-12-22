@@ -1,6 +1,3 @@
-# HD-admin
-OrionLib: comando de admin
-
  -- Adiciona Biblioteca
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
