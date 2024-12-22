@@ -106,7 +106,7 @@ local function alternatePlayers()
     end
 end
 
--- Botão: Executar Comando
+-- Botão: Executar Comando Selecionado
 Tab:AddButton({
     Name = "Executar Comando!",
     Callback = function()
